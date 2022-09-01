@@ -6,5 +6,5 @@ void Multiple() {
 
 int main()
 {
-	printf("Little World!");
+	printf("Little,Hey, World!");
 }
